@@ -1,5 +1,5 @@
 {
-		"version": "1.0.0.0",
+		"version": "1.0.0.1",
 		"author": {"name":"OrCaPCP","email":"orcapcp@example.com"},
 		"resources": [
 			{
@@ -8,7 +8,7 @@
 				"file": "resources/orcapcpVisual3AF973C9B1234749BE8E897DF90CF4AF.pbiviz.json"
 			}
 		],
-		"visual": {"name":"orcapcpVisual","displayName":"OrCaPCP","guid":"orcapcpVisual3AF973C9B1234749BE8E897DF90CF4AF","visualClassName":"Visual","version":"1.0.0.0","description":"OrCaPCP parallel coordinates","supportUrl":"https://github.com/","gitHubUrl":"https://github.com/"},
+		"visual": {"name":"orcapcpVisual","displayName":"OrCaPCP","guid":"orcapcpVisual3AF973C9B1234749BE8E897DF90CF4AF","visualClassName":"Visual","version":"1.0.0.1","description":"OrCaPCP parallel coordinates","supportUrl":"https://github.com/","gitHubUrl":"https://github.com/"},
 		"metadata": {
 			"pbivizjson": {
 				"resourceId": "rId0"
